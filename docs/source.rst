@@ -7,6 +7,14 @@ Source Guide
           computer should you use? what network should you be on? etc.
 
 
+Choosing the right location
+---------------------------
+
+We suggest you buy a new computer, a USB key and pay cash. You can
+then find a busy coworking place or cyber café you don't regularly go
+to and seat at a place with your back to a wall to avoid cameras
+capturing information on your screen or keystrokes.
+
 Get the Tor Browser
 -------------------
 
